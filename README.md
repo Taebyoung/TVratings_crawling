@@ -17,11 +17,23 @@
 <center><img src = "img/crawling_data.png"></center>
 
 
+
+
 #### 1.3  Data Collection and Analysis Methods 
 
 <center><img src = "img/img_overview.png"></center>
 
-#### 1.4  Required Packages (These packages must be installed)
+
+
+#### 1.4  Scrape data from website
+
+<center><img src = "img/img_result_csv.jpeg"></center>
+<center><img src = "img/img_result_mail.png"></center>
+
+
+
+
+#### 1.5  Required Packages (These packages must be installed)
 
     1) Scrapy
     2) Pandas
