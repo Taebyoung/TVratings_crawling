@@ -14,6 +14,8 @@
 
         - "https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&query=12%EC%9B%94%206%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0"
 
+<center><img src = "img/crawling_data.png"></center>
+
 
 #### 1.3  Data Collection and Analysis Methods 
 
