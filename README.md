@@ -19,7 +19,7 @@
 
 
 
-#### 1.3  Data Collection and Analysis Methods 
+#### 1.3  Data Collection and Storage method 
 
 <center><img src = "img/img_overview.png"></center>
 
