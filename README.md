@@ -28,7 +28,7 @@
 #### 1.4  Scrape data from website
 
 <center><img src = "img/img_result_csv.jpeg"></center>
-<center><img src = "img/img_result_mail.png"></center>
+
 
 
 
